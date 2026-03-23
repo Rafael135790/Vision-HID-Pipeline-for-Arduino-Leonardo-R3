@@ -292,6 +292,7 @@ pip install hid dxcam opencv-python numpy
  <img width="550" height="550" alt="image" src="https://github.com/user-attachments/assets/2e4779df-48f1-438d-b7de-481f6f78b432" />
 
 - USB Host Shield
+
   <img width="450" height="450" alt="image" src="https://github.com/user-attachments/assets/bac884bb-9096-4dae-a5c7-544b45d7fc42" />
 
 - dispositivo USB HID externo compatível com o parser (mouse)
