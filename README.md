@@ -344,3 +344,7 @@ Uso em Jogos: O uso destas ferramentas em jogos online (FPS ou outros) pode viol
 Responsabilidade: O autor deste repositório não se responsabiliza por qualquer uso indevido, aplicação em ambientes competitivos ou danos causados por modificações no código. 
 Ética: Encorajo o uso deste conhecimento para o desenvolvimento de tecnologias assistivas, automação industrial ou interfaces criativas de usuário.
 Ao baixar ou utilizar este código, o usuário assume total responsabilidade por suas ações.
+## Contato
+
+- Email: [rafael@email.com](moreirarheinheimer@gmail.com
+)
