@@ -304,6 +304,10 @@ O código está configurado inicialmente para a Interface 0.
 
 Caso não funcione, altere o número da interface gradualmente (1, 2, 3...) até encontrar a interface correta para o seu dispositivo.
 ---
+a tela quando funcionando ficaria algo como: 
+
+<img width="1113" height="624" alt="Captura de tela 2026-03-23 162019" src="https://github.com/user-attachments/assets/a2c9f253-d76f-43f6-926e-d5b83dfd1bf5" />
+
 
 ### Aviso de licenciamento
 
