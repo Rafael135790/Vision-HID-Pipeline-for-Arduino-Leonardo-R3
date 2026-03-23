@@ -1,4 +1,4 @@
-# Python Arduino HID Vision Pipeline (AIMCOLOR)
+# Python Arduino HID Vision Pipeline (COLOR BOT)
 
 Projeto experimental de **visão computacional em tempo real** com integraçao ao **Arduino Leonardo R3** para transporte de comandos via **HID/RawHID**, com foco em:
 
