@@ -6,7 +6,7 @@ https://github.com/user-attachments/assets/5099bc9b-5ce7-4ac0-b511-a5e021f3cb9e
 
 Como irei mostrar a seguir todo o sistema pode ser modificado, dependendo do perfil de cada jogador, no caso da versão apresentada, ela tenta ser a mais humana possivel.
 
-## caracteristicas 
+## Caracteristicas 
 Projeto experimental de **visão computacional em tempo real** com integraçao ao **Arduino Leonardo R3** para transporte de comandos via **HID/RawHID**, com foco em:
 
 - baixa latência;
