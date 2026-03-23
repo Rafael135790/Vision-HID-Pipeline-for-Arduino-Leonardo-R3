@@ -311,7 +311,7 @@ Dentro da pasta `core_patches/`:
 - seus arquivos modificados do core USB/HID
 
 ---
-##COMO USAR
+### COMO USAR
 ## Requisitos
 
 ### Software
