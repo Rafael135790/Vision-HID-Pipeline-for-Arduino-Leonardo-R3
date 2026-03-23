@@ -288,10 +288,8 @@ pip install hid dxcam opencv-python numpy
 
 ### Hardware
 
-- Arduino Leonardo R3
-- 
+- Arduino Leonardo R3 
  <img width="550" height="550" alt="image" src="https://github.com/user-attachments/assets/2e4779df-48f1-438d-b7de-481f6f78b432" />
-
 - USB Host Shield
 - dispositivo USB HID externo compatível com o parser (mouse)
 - cabo USB confiável
